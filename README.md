@@ -8,3 +8,5 @@ unicode placeholders. At the time of writing only the development version of
 [kitty](https://sw.kovidgoyal.net/kitty/) supports this.
 
 Requires PIL (Python Imaging Library) or [Pillow](https://pillow.readthedocs.io/en/stable/).
+
+![image](https://github.com/user-attachments/assets/74956634-516d-4996-b3f4-117771fe597e)
